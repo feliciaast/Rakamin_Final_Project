@@ -1,2 +1,2 @@
-# Rakamin_Final_Project
+# Rakamin Final Project
 Loan Prediction Based on Customer Behavior
